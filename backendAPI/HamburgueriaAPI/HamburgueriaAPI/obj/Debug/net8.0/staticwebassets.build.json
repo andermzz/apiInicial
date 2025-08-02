@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "TPM4g6dQetUuqy3nsfnXeG7PsuYYnBIYyH64etHLI7M=",
+  "Source": "HamburgueriaAPI",
+  "BasePath": "_content/HamburgueriaAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
