@@ -1,0 +1,32 @@
+.lista{
+    width: 80%;
+    background-color: #ffffff;
+    color: #034c88;
+    margin: 20px 0px;
+    border-radius: 8px;
+    padding: 20px;
+}
+
+.itemDescricao{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.item{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 20px 0px;
+}
+
+.btnLista{
+    border: none;
+    background: none;
+    color: #034c88;
+    font-size: 0.9em;
+    font-weight: bold;
+    cursor: pointer;
+}

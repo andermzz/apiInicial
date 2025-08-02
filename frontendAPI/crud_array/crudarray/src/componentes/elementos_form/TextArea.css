@@ -1,0 +1,11 @@
+.TextArea{
+    width: 100%;
+    height: 200px;
+    resize: none;
+    padding: 10px 3px;
+    color: #034c88;
+}
+
+.TextArea::placeholder{
+    color: #034c88;;
+}

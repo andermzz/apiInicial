@@ -1,0 +1,25 @@
+.elemForm{
+    margin: 20px 0px;
+}
+
+label{
+    width: 80%;
+    display: block;
+    text-transform: uppercase;
+    font-weight: bolder;
+    text-align: left;
+    margin: 10px 0px;
+}
+
+.Input{
+    width: 98%;
+    height: 30px;
+    padding: 10px 3px;
+    font-size: 0.9em;
+    color: #034c88;
+    
+}
+
+.Input::placeholder{
+    color: #034c88;
+}

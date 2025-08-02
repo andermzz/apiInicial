@@ -1,0 +1,27 @@
+.form{
+    width: 80%;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    background-color: #ffffff;
+    color: #034c88;
+    border-radius: 8px;
+}
+
+.form button{
+    width: 160px;
+    height: 30px;
+    background-color: #034c88;
+    border: none;
+    color: #ffffff;
+    text-transform: uppercase;
+    cursor: pointer;
+    border-radius: 5px;
+    transition: 2s;
+}
+
+.form button:hover{
+    opacity: 0.5;
+    background-color: #034c88;
+
+}
